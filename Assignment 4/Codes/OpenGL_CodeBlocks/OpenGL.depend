@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1524405742 source:g:\akib ahmed\pdf\4-2\(cse410) comp graphix lab\opengl\opengl\opengl_codeblocks\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1523199235 g:\akib ahmed\pdf\4-2\(cse410) comp graphix lab\opengl\opengl\opengl_codeblocks\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1531401790 source:g:\akib ahmed\pdf\4-2\(cse410) comp graphix lab\opengl1\opengl\opengl_codeblocks\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1523199235 g:\akib ahmed\pdf\4-2\(cse410) comp graphix lab\opengl1\opengl\opengl_codeblocks\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532233587 source:g:\akib ahmed\pdf\4-2\(cse410) comp graphix lab\assignment 4\codes\opengl1\opengl\opengl_codeblocks\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<iostream>
+	<glut.h>
+	<iostream>
+	<sstream>
+	"classes.h"
+	"bitmap_image.hpp"
+	<vector>
+
+1523199235 g:\akib ahmed\pdf\4-2\(cse410) comp graphix lab\assignment 4\codes\opengl1\opengl\opengl_codeblocks\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532231387 g:\akib ahmed\pdf\4-2\(cse410) comp graphix lab\assignment 4\codes\opengl1\opengl\opengl_codeblocks\opengl_codeblocks\opengl\include\classes.h
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1531657647 g:\akib ahmed\pdf\4-2\(cse410) comp graphix lab\assignment 4\codes\opengl1\opengl\opengl_codeblocks\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+	"classes.h"
+
+1526749315 g:\akib ahmed\pdf\4-2\(cse410) comp graphix lab\assignment 4\codes\opengl1\opengl\opengl_codeblocks\opengl_codeblocks\opengl\include\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+

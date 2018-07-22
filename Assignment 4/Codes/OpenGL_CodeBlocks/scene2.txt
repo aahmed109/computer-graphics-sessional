@@ -1,0 +1,109 @@
+4
+768
+
+8
+
+sphere 
+40.0 0.0 10.0 
+10.0 
+0.0 1.0 0.0
+0.4 0.2 0.2 0.2
+10
+
+sphere
+-30.0 60.0 20.0 
+20.0
+0.0 0.0 1.0
+0.2 0.2 0.4 0.2
+15
+
+sphere
+-15.0 15.0 45.0
+15.0
+1.0 1.0 0.0
+0.4 0.3 0.1 0.2
+5
+
+triangle
+50 30 0
+70 60 0
+50 45 50
+1.0 0.0 0.0
+0.4 0.2 0.1 0.3
+5
+
+triangle
+70 60 0
+30 60 0
+50 45 50
+1.0 0.0 0.0
+0.4 0.2 0.1 0.3
+5
+
+triangle
+30 60 0
+50 30 0
+50 45 50
+1.0 0.0 0.0
+0.4 0.2 0.1 0.3
+5
+
+general
+1 1 1 0 0 0 0 0 0 -100
+0 0 0 0 0 20
+0.0 1.0 0.0
+0.4 0.2 0.1 0.3
+10
+
+general
+0.0625 0.04 0.04 0 0 0 0 0 0 -36
+0 0 0 0 0 15
+1.0 0.0 0.0
+0.4 0.2 0.1 0.3
+15
+
+2
+70.0 70.0 70.0
+-70 70 70 
+
+
+
+input explanation:
+
+4 level of recursion
+768 number of pixels along both axes
+
+8 number of objects
+
+sphere
+40.0 0.0 10.0 center
+10.0 radius
+0.0 1.0 0.0 color
+0.4 0.2 0.2 0.2 ambient diffuse specular reflection coefficient
+5 shininess
+
+Triangle
+-20.0 -20.0 0.0 x1, y1, z1
+20.0 -20.0 0.0	x2, y2, z2
+0.0 0.0 20.0	x3, y3, z3
+1.0 0.0 0.0 color
+0.4 0.2 0.1 0.3 ambient diffuse specular reflection coefficient
+5 shininess
+
+general
+1 1 1 0 0 0 -20 -20 -20 200 A B C D E F G H I J
+0 0 0 0 0 5	 cube reference point, length, width, height
+0.0 0.0 1.0	 color
+0.4 0.2 0.1 0.3 ambient diffuse specular reflection coefficient
+3 shininess
+
+
+2 number of light sources
+
+70.0 70.0 70.0 position of first light source
+-70.0 70.0 70.0 position of second light source
+
+There will be a floor onto  X-Y plane
+FloorWidth can be 1000 (from origin 500 across each side)
+Each Tile Width is 20
+Color Should be alternating
